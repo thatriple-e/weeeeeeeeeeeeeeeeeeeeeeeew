@@ -9,7 +9,7 @@
     "author": "King Sam",
     "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys": "latest",
+        "@whiskeysockets/baileys": "6.6.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@colors/colors": "^1.6.0",
         "@hapi/boom": "^10.0.0",
